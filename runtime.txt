@@ -1,1 +1,1 @@
-python-3_6_8
+python-3.6.8
